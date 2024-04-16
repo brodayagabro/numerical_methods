@@ -12,6 +12,8 @@ git pull
 ```
 
 ## Работа
-Решения оформлены в Jupyter Notebook. Для работы с ним можно использовать [Google Colab](https://colab.research.google.com/?hl=ru_ru)\ [example](https://drive.google.com/drive/folders/1DW7OQJQGySDnx-9XosBdbQaWwYxhuvNs?usp=sharing)\
+Решения оформлены в Jupyter Notebook. Для работы с ним можно использовать 
+[Google Colab](https://colab.research.google.com/?hl=ru_ru)
+[example](https://drive.google.com/drive/folders/1DW7OQJQGySDnx-9XosBdbQaWwYxhuvNs?usp=sharing)
 
 Загружаете файл на диск и в нем работаете. Можно так же использовать Jupyter на ПК
